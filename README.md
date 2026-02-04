@@ -3,7 +3,7 @@
 ![Project Status](https://img.shields.io/badge/status-active-success.svg)
 ![Go Version](https://img.shields.io/badge/go-1.25-blue.svg)
 
-**Project URL**: [https://github.com/18t1021223/todo)
+**Project URL**: [https://roadmap.sh/projects/todo-list-api)
 
 ## 🚀 Features
 
